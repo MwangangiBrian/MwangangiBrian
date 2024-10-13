@@ -1,5 +1,4 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-![fxTQ](https://github.com/user-attachments/assets/28d0664e-03d2-46cf-ac6b-28f044fd81cc)
 
 <div id="header" align="center">
 
@@ -11,7 +10,7 @@
 
 - 🎓 I'm a Student and Web Developer
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning QA/QE
+- 🌱 I’m currently learning **QA/QE**
 -  💬 Ask me about **MERN stack**
 - 👯 I’m looking to collaborate with open source enthusiasts
 - 🤖 An enthusiastic lover of Web 3
@@ -23,6 +22,20 @@
 <a href="https://www.linkedin.com/in/brian-mwangi-643a23230/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://x.com/Bry_Mwangangi?s=35" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://discordapp.com/users/bryy1n"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
+
+<br>
+
+## 💻 Tech Arsenal:
+
+<div align="center">
+
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,python,tensorflow,mongodb,postman,solidity,azure,vercel,git,bash,linux,googlecloud&perline=11" />
+</a>
+
+</div>
+
+<br>
 
 
 ## 📊 GitHub Stats:
@@ -38,24 +51,6 @@
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Asymtode712&theme=gotham">
 
 </div><br>
-
-
-
-
-<!--
-**MwangangiBrian/MwangangiBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- Visitor Count Badge -->
 ---
