@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-- 🎓 I'm a Student and Web Developer
+- 🎓 I'm a Web Developer
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning **QA/QE**
 -  💬 Ask me about **MERN stack**
@@ -44,9 +44,7 @@
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MwangangiBrian&theme=gotham">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MwangangiBrian&theme=gotham">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MwangangiBrian&theme=gotham">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MwangangiBrian&theme=gotham">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MwangangiBrian&theme=gotham&utcOffset=8">
+
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=MwangangiBrian&theme=gotham&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Asymtode712&theme=gotham">
 
