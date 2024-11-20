@@ -11,7 +11,7 @@
 - 🎓 I'm a Web Developer
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning **QA/QE**
--  💬 Ask me about **MERN stack**
+-  💬 Ask me about **PERN stack**
 - 👯 I’m looking to collaborate with open source enthusiasts
 - 🤖 An enthusiastic lover of Web 3
 
