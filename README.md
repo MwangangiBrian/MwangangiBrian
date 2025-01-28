@@ -12,16 +12,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning **QA/QE**
 -  💬 Ask me about **PERN stack**
-- 👯 I’m looking to collaborate with open source enthusiasts
-- 🤖 An enthusiastic lover of Web 3
-
-<br>
-
-## 🌐 Socials:
-
-<a href="https://www.linkedin.com/in/brian-mwangi-643a23230/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://x.com/Bry_Mwangangi?s=35" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://discordapp.com/users/bryy1n"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
+- 🤖 An enthusiast of Web 3
 
 <br>
 
@@ -37,23 +28,16 @@
 
 <br>
 
+## 🌐 Reach me:
 
-## 📊 GitHub Stats:
+<a href="https://www.linkedin.com/in/brian-mwangi-643a23230/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://x.com/Bry_Mwangangi?s=35" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://discordapp.com/users/bryy1n"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
 
-<div align="center">
+<br>
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MwangangiBrian&theme=gotham">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MwangangiBrian&theme=gotham">
 
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=MwangangiBrian&theme=gotham&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Asymtode712&theme=gotham">
 
-</div><br>
-
-<!-- Visitor Count Badge -->
----
-### 🎎 Visitors count: <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MwangangiBrian&label=Profile%20views&color=0e75b6&style=flat" alt="MwangangiBrian" /> </p> <br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
