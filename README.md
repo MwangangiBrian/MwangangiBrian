@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>Hey there<img src="https://github.com/user-attachments/assets/00faf27a-db72-4bf7-9222-607a292d8ad2" alt="hello" height= "38px">, I am <a href="https://www.linkedin.com/in/brian-mwangi-643a23230/">Brian Mwangi</a>!
+<h1>Hey <img src="https://github.com/user-attachments/assets/00faf27a-db72-4bf7-9222-607a292d8ad2" alt="hello" height= "38px">, I am <a href="https://www.linkedin.com/in/brian-mwangi-643a23230/">Brian Mwangi</a>
 </h1>
 </div>
 
